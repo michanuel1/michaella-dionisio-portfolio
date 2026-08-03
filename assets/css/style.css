@@ -839,8 +839,8 @@ main {
 }
 
 .responsibility-title {
-  color: var(--vegas-gold);
-  font-weight: var(--fw-500);
+  color: var(--white);
+  font-weight: var(--fw-600);
 }
 
 
